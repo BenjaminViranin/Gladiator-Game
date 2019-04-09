@@ -20,4 +20,4 @@ Gladiator Game is a 3D fighting game developed on Unreal Engine 4, with a team o
 
 ## Build Instructions
 
-The build is on the Folder "Build"
+There is no build in this repository, use UnrealEngine4 to generate a build
